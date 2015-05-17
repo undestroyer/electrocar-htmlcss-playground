@@ -1,0 +1,16 @@
+body {
+	background-image: url(../img/tesla.jpeg);
+	background-size: cover;
+}
+#description{
+	position: absolute;
+	top:300px;
+	left: 60px;
+	width: 300px;
+	background-color: rgba(255,255,255,.5);
+	padding: 10px;
+}
+#description span {
+	font-weight: bold;
+	font-size: 18px;
+}
